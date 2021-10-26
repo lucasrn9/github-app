@@ -1,6 +1,4 @@
-# Getting Started with Create React App
 
-github profile searcher
 
 ## Available Scripts
 
